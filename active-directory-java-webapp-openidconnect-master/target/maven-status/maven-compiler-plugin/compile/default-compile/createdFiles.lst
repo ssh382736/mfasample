@@ -1,0 +1,9 @@
+com\microsoft\aad\adal4jsample\AuthHelper.class
+com\microsoft\aad\adal4jsample\BasicFilter$StateData.class
+com\microsoft\aad\adal4jsample\DirectoryObject.class
+com\microsoft\aad\adal4jsample\JSONHelper.class
+com\microsoft\aad\adal4jsample\User.class
+com\microsoft\aad\adal4jsample\AuthParameterNames.class
+com\microsoft\aad\adal4jsample\HttpClientHelper.class
+com\microsoft\aad\adal4jsample\AadController.class
+com\microsoft\aad\adal4jsample\BasicFilter.class
